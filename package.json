@@ -1,8 +1,8 @@
 {
   "name": "odd-resource_model",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "create resource model for vuex store",
-  "main": "lib/resource_model.js",
+  "main": "lib/odd-resource_model.js",
   "scripts": {
     "build": "webpack --env dev && webpack --env build && npm run test",
     "dev": "webpack --progress --colors --watch --env dev",
